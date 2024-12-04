@@ -1,4 +1,4 @@
-# Dive into Deep Learning (Java version)
+# Dive into Deep Learning (Kotlin version)
 
 **WIP**
 
